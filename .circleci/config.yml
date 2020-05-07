@@ -28,6 +28,6 @@ jobs:
       - run: cat /dev/null | sbt test:test
 
       - store_artifacts:
-          path: build/test-results/test
+          path: target/test-reports
       - store_test_results:
-          path: build/test-results/test
+          path: target/test-reports
