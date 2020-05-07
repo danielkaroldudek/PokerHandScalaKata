@@ -34,5 +34,9 @@ class PokerHandTest extends AnyWordSpec with Matchers {
     "pick pair of A" in {
       PokerHand.evaluate("5H 4C 6S AS AD") should equal("pair of : A")
     }
+
+    "pick two pairs of A,K" in {
+      PokerHand.evaluate("5H KC KS AS AD") should equal("two pairs of : A,K")
+    }
   }
 }

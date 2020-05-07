@@ -26,10 +26,15 @@ object PokerHand {
       .toList
       .sorted
     val maxCardOccurrence = cardOccurrences.head
+    val secondMaxCardOccurrence = cardOccurrences(1)
     if (maxCardOccurrence.occurrence == 2) {
-      "pair of : " + maxCardOccurrence.figure
+      if (secondMaxCardOccurrence.occurrence == 2) {
+        s"two pairs of : ${maxCardOccurrence.figure},${secondMaxCardOccurrence.figure}"
+      } else {
+        s"pair of : ${maxCardOccurrence.figure}"
+      }
     } else {
-      "high card : " + maxCardOccurrence.figure
+      s"high card : ${maxCardOccurrence.figure}"
     }
   }
 }
