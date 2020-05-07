@@ -11,6 +11,58 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.ibm.icu:icu4j:59.1:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.openhtmltopdf:openhtmltopdf-core:0.0.1-RC13:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.openhtmltopdf:openhtmltopdf-jsoup-dom-converter:0.0.1-RC13:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.openhtmltopdf:openhtmltopdf-pdfbox:0.0.1-RC13:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.openhtmltopdf:openhtmltopdf-rtl-support:0.0.1-RC13:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-all:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-abbreviation:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-admonition:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-anchorlink:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-aside:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-attributes:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-autolink:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-definition:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-emoji:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-enumerated-reference:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-escaped-character:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-footnotes:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-gfm-issues:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-gfm-strikethrough:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-gfm-tables:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-gfm-tasklist:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-gfm-users:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-gitlab:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-ins:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-jekyll-front-matter:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-jekyll-tag:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-macros:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-media-tags:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-superscript:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-tables:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-toc:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-typographic:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-wikilink:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-xwiki-macros:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-yaml-front-matter:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-ext-youtube-embedded:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-formatter:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-html-parser:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-jira-converter:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-pdf-converter:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-profile-pegdown:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-util:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark-youtrack-converter:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.vladsch.flexmark:flexmark:0.35.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: commons-logging:commons-logging:1.2:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: de.rototor.pdfbox:graphics2d:0.12:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: log4j:log4j:1.2.17:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.apache.pdfbox:fontbox:2.0.8:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.apache.pdfbox:pdfbox:2.0.8:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.apache.pdfbox:xmpbox:2.0.8:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.jsoup:jsoup:1.10.2:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.nibor.autolink:autolink:0.6.0:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang.modules:scala-xml_2.13:1.2.0:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.2:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang:scala-reflect:2.13.2:jar" level="project" />
